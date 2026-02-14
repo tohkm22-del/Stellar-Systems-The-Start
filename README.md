@@ -59,4 +59,5 @@ Visual mods [Recommended]
 | [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance
 
 ### EXTRA
-All textures made in GIMP.
+All textures made in GIMP.  
+This is my first KSP mod. If you have any feedback, please feel free to share it with me.
