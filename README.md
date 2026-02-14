@@ -1,5 +1,8 @@
+<img width="1919" height="1079" alt="Heloon" src="https://github.com/user-attachments/assets/5f9492d1-f4dc-4401-b2b5-8834e6ec84cf" />
+<sup>Heloon a temperate ice giant</sup>
+
 # Stellar Systems, The Start
-Stellar Systems-V1.0 The Start  
+Stellar Systems-V1.0  
 Stellar Systems is a large-scale, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 4 systems with 3 being complete.
 
 ### SYSTEMS:
