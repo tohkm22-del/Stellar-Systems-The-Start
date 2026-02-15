@@ -49,6 +49,7 @@ Extra mods
 | [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens/releases/tag/v0.5.0)| Replaces the stock loading screens with custom ones
 | [Sigma Replacements SkyBox](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1) | Allows for custom skyboxes
 |  [AtmosphereUtilities](https://github.com/plantman-dev/AtmosphereUtilities) | Allows oxygen to be at certain heights/places
+|  [Singularity](https://github.com/LGhassen/Singularity/releases) | New black hole shaders
 
 Visual mods [Recommended]
 | MODS | PURPOSE |
