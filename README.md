@@ -20,10 +20,12 @@ I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, 
 If there are any other issue report them to me, thank you!
 
 ### WHAT IS INCLUDED
-There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles and auroras.
+There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles and auroras.  
+3 finished systems and 1 WIP.
 
 ### THE FUTURE
 There will be more systems, like a planned Kerbol outer planets, and many exotic worlds to explore.  
+Parallax Continued support will be done in the future, as I average 1-2 fps with my current setup, so it's not feasible right now.
 
 **SYSTEMS IDEAS**  
 - A B-type star hosting many unique planets.  
