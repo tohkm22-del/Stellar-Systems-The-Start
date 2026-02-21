@@ -10,7 +10,8 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 - Rast - Finished - No analog  
 - Nooe - Finished - Upsilon Andromedae analog  
 - Swarch - Finished - No analog  
-- Xeroon - WIP - No analog  
+- Xeroon - Finished - No analog - NOT RELEASED
+- Xeroon - WIP - Trappist 1 - NOT RELEASED
 
 ### LICENSE:
 CC-BY-NC-ND
@@ -33,7 +34,7 @@ Parallax Continued support will be done in the future, as I average 1-2 fps with
 - A orange giant star, nearing the end of its life.  
 
 **WIP SYSTEMS**  
-- Xeroon
+- Keppe
 
 ### INSTALLATION
 Download and unzip the Stellar Systems, and put the Stellar Systems into your GameData.  
