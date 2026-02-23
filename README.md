@@ -29,7 +29,7 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 - Rast - Finished - No analog  
 - Nooe - Finished - Upsilon Andromedae analog  
 - Swarch - Finished - No analog  
-- Xeroon - Finished - No analog - NOT RELEASED
+- Xeroon - Finished - No analog
 - Keppe - WIP - Trappist 1 - NOT RELEASED
 
 ### LICENSE:
