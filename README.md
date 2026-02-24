@@ -41,7 +41,7 @@ If there are any other issue report them to me, thank you!
 
 ### WHAT IS INCLUDED
 There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles and auroras.  
-3 finished systems and 1 WIP.
+4 finished systems and 1 WIP.
 
 ### THE FUTURE
 There will be more systems, like a planned Kerbol outer planets, and many exotic worlds to explore.  
