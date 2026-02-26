@@ -18,11 +18,6 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 <img width="500" height="1079" alt="poop" src="https://github.com/user-attachments/assets/42290829-b161-41d0-b1ae-9ba55566f8e4" />  
 
 <sup>Heloon seen from Xovn</sup> 
-
-<img width="500" height="1079" alt="ass" src="https://github.com/user-attachments/assets/c08abf1a-c8b2-42f4-8ba5-690155b5066b" />  
-
-<sup>Eltos seen from orbit</sup>  
-
   
 
 ### SYSTEMS:
