@@ -44,7 +44,7 @@ Parallax Continued support will be done in the future, as I average 1-2 fps with
 
 **SYSTEMS IDEAS**  
 - A B-type star hosting many unique planets.  
-- A system early in its development, with many large protoplanetary disks and chaotic environments.  
+- A system early in its development, with many large protoplanetary disks and q chaotic environment.  
 - A orange giant star, nearing the end of its life.  
 
 **WIP SYSTEMS**  
