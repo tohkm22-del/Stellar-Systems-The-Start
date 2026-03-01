@@ -1,10 +1,10 @@
-<img width="1920" height="1080" alt="StellarSystems" src="https://github.com/user-attachments/assets/66cc5211-0e06-46d7-a0a1-dbe8c9a36700" />
+<img width="1000" height="1080" alt="StellarSystems" src="https://github.com/user-attachments/assets/66cc5211-0e06-46d7-a0a1-dbe8c9a36700" />
 
 <sup>Made by @RatchetKSP</sup>
 
-# Stellar Systems, The Start
-Stellar Systems-V1.0.3
-Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 5 systems with 4 being complete.
+# Stellar Systems
+## Stellar Systems-V1.0.3  
+Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 6 systems with 5 being complete.
 
 ### PICTURES
 <img width="500" height="518" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" />  
@@ -27,10 +27,11 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 
 ### SYSTEMS:
 - Rast - Finished - No analog  
-- Nooe - Finished - Upsilon Andromedae analog  
+- Nooe - Finished - Upsilon Andromedae 
 - Swarch - Finished - No analog  
 - Xeroon - Finished - No analog
-- Keppe - WIP - Trappist 1 - NOT RELEASED
+- Keppe - Finshed - Trappist 1 - NOT RELEASED
+- Oruun - WIP - Sirius - NOT RELEASED
 
 ### LICENSE:
 CC-BY-NC-ND
@@ -50,10 +51,10 @@ Parallax Continued support will be done in the future, as I average 1-2 fps with
 **SYSTEMS IDEAS**  
 - A B-type star hosting many unique planets.  
 - A system early in its development, with many large protoplanetary disks and q chaotic environment.  
-- A orange giant star, nearing the end of its life.  
 
 **WIP SYSTEMS**  
-- Keppe
+- Oruun
+- Possibly Xeroon
 
 ### INSTALLATION
 Download and unzip the Stellar Systems, and put the Stellar Systems into your GameData.  
