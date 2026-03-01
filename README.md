@@ -18,6 +18,11 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 <img width="500" height="1079" alt="poop" src="https://github.com/user-attachments/assets/42290829-b161-41d0-b1ae-9ba55566f8e4" />  
 
 <sup>Heloon seen from Xovn</sup> 
+
+<img width="500" height="905" alt="Screenshot 2026-02-28 225136" src="https://github.com/user-attachments/assets/e0e389b4-bed8-4260-8dd4-7b315866b999" />
+
+<sup>A view of Xovn's clouds</sup> 
+
   
 
 ### SYSTEMS:
