@@ -4,7 +4,7 @@
 
 # Stellar Systems
 ## Stellar Systems-V1.0.3  
-Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 6 systems with 5 being complete.
+Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 6 systems with 5 being complete.  
 
 ### PICTURES
 <img width="500" height="518" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" />  
@@ -50,7 +50,7 @@ Parallax Continued support will be done in the future, as I average 1-2 fps with
 
 **SYSTEMS IDEAS**  
 - A B-type star hosting many unique planets.  
-- A system early in its development, with many large protoplanetary disks and q chaotic environment.  
+- A system early in its development, with many large protoplanetary disks and chaotic environment.  
 
 **WIP SYSTEMS**  
 - Oruun
