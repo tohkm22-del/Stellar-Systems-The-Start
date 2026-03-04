@@ -4,7 +4,7 @@
 
 # Stellar Systems
 ## Stellar Systems-V1.0.3  
-Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 6 systems with 5 being complete.  
+Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 5 systems with 4 being complete.  
 
 ### PICTURES
 <img width="500" height="518" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" />  
@@ -28,7 +28,6 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 ### SYSTEMS:
 - Rast - Finished - No analog  
 - Nooe - Finished - Upsilon Andromedae
-- Oruun - WIP - Sirius - NOT RELEASED
 - Xeroon - WIP - No analog
 - Keppe - Finshed - Trappist 1 - NOT RELEASED
 - Swarch - Finished - No analog  
@@ -41,8 +40,7 @@ I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, 
 If there are any other issue report them to me, thank you!
 
 ### WHAT IS INCLUDED
-There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles and auroras.  
-4 finished systems and 1 WIP.
+There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles and auroras.
 
 ### THE FUTURE
 There will be more systems, like a planned Kerbol outer planets, and many exotic worlds to explore.  
@@ -50,14 +48,13 @@ Parallax Continued support will be done in the future, as I average 1-2 fps with
 
 **SYSTEMS IDEAS**  
 - A B-type star hosting many unique planets.  
-- A system early in its development, with many large protoplanetary disks and chaotic environment.  
+- A system early in its development, with large protoplanetary disks and chaotic environments.  
 
 **WIP SYSTEMS**  
-- Oruun
 - Xeroon
 
 ### INSTALLATION
-Download and unzip the Stellar Systems, and put the Stellar Systems into your GameData.  
+Download and unzip Stellar Systems, and put Stellar Systems into your GameData.  
 
 Dependencies [You **need** these]
 |  MODS  | PURPOSE |
