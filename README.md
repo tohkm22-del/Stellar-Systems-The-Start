@@ -19,10 +19,6 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
  
 <sup>Braaum</sup> 
 
-<img width="500" height="1079" alt="Screenshot 2026-03-17 203653" src="https://github.com/user-attachments/assets/87be94c1-0161-4ec6-b6ad-c8b874406290" />  
-
-<sup>Pyyth</sup> 
-
 <img width="500" height="1079" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" />
 
 <sup>Gevlo seen up close</sup> 
