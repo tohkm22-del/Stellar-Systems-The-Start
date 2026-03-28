@@ -3,7 +3,7 @@
 <sup>Made by @RatchetKSP</sup>
 
 # Stellar Systems-V1.0.3  
-Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 6 systems with 4 being complete.  
+Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 6 systems with 5 being complete.  
 
 ### PICTURES
 <img width="500" height="518" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" />  
@@ -29,7 +29,7 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 | - | ------------------------- | ------------------------- |
 |  Rast | Finished | No analog |
 | Xeroon | WIP | Alpha Centauri |
-| Orrion | WIP, Not released |  No analog |
+| Orrion | Finished, Not released |  No analog |
 | Noren | Finished | Upsilon Andromedae |
 | Keppe| Finished, Not released | Trappist 1 |
 | Swarch | Finished |  No analog |
@@ -42,7 +42,7 @@ I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, 
 If there are any other issue report them to me, thank you!
 
 ### WHAT IS INCLUDED
-There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles and auroras.
+There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles along with volumetirc auroras and rings (credit to @TheSpacePotato).
 
 ### THE FUTURE
 There will be more systems, like a planned Kerbol outer planets, and many exotic worlds to explore.  
@@ -53,7 +53,6 @@ Parallax Continued support will be done in the future, as I average 1-2 fps with
 - A young system with disks of gas and lots of lava. 
 
 **WIP SYSTEMS**  
-- Orrion
 - Xeroon
 
 ### INSTALLATION
