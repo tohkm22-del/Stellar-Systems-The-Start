@@ -83,7 +83,7 @@ Extra mods
 Visual mods [Recommended]
 | MODS | PURPOSE |
 | ------------------------- | ------------------------- |
-| [EVE](https://www.patreon.com/blackrack) VOLUMETRIC V5 ONLY!| Adds dynamic 3D clouds
+| [EVE](https://www.patreon.com/blackrack), Volumetric ONLY!! | Adds dynamic 3D clouds
 | [Scatterer](https://github.com/LGhassen/Scatterer/releases) | Improves atmospheric scattering
 | [FireFly](https://github.com/M1rageDev/Firefly/releases) | Adds new re-entry flames
 |  [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases/tag/0.2.6.6) | Reflected glow off of planets or moons
