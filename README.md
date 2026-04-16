@@ -61,7 +61,7 @@ Dependencies [You **need** these]
 |  [VertexColorMapEmissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | Adds planetary emissives
 |  [VertexHeightOblateAdvanced](https://github.com/jamespglaze/VertexHeightOblateAdvanced/releases/tag/1.1.4)  | Allows oblate bodies
 |  [KSPTextureLoader](https://github.com/Phantomical/KSPTextureLoader/releases) | Optimizes texture loading and memory usage
-|  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) | Allows Stellar Systems to function
+|  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) | Allows custom systems to be loaded into KSP
 |  [HarmonyKSP](https://github.com/KSPModdingLibs/HarmonyKSP/releases/tag/2.2.1.0) | Kopernicus dependency
 |  [ModularFlightIntegrator](https://forum.kerbalspaceprogram.com/topic/106369-19-modularflightintegrator-127-19-october-2019/) | Kopernicus dependency
 |  [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) | Bugfix pack
