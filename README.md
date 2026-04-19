@@ -1,4 +1,4 @@
-<img width="1000" height="1080" alt="StellarSystems" src="https://github.com/user-attachments/assets/66cc5211-0e06-46d7-a0a1-dbe8c9a36700" />
+<img width="1000" height="563" alt="StellarSystems" src="https://github.com/user-attachments/assets/66cc5211-0e06-46d7-a0a1-dbe8c9a36700" />
 
 <sup>Made by @RatchetKSP</sup>
 
@@ -6,15 +6,15 @@
 Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 6 systems with 5 being complete.  
 
 ### PICTURES
-|<img width="500" height="518" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" /> | <img width="500" height="518" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> |
+|<img width="500" height="281" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" /> | <img width="500" height="281" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> |
 |:--:|:--:|
 |<sup>Euba and its moon Mimar</sup>|<sup>Heloon</sup>  |
 
-|<img width="500" height="1079" alt="Screenshot 2026-03-17 203127" src="https://github.com/user-attachments/assets/2e328aef-e4e0-4350-9146-cc4f1ed396e2" />   | <img width="500" height="1079" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" /> |
+|<img width="500" height="281" alt="Screenshot 2026-03-17 203127" src="https://github.com/user-attachments/assets/2e328aef-e4e0-4350-9146-cc4f1ed396e2" />   | <img width="500" height="281" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" /> |
 |:--:|:--:|
 |<sup>Braaum</sup> | <sup>Gevlo seen up close</sup>  |
 
-|<img width="500" height="1079" alt="Kaas" src="https://github.com/user-attachments/assets/77ad77b5-5431-42fc-8e0e-f6873d45ad97" /> |
+|<img width="500" height="281" alt="Kaas" src="https://github.com/user-attachments/assets/77ad77b5-5431-42fc-8e0e-f6873d45ad97" /> |
 |:--:|
 |<sup>Kaas and it's moons Vosk and Contriax</sup> |
 
