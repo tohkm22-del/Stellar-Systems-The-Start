@@ -5,7 +5,11 @@
 # Stellar Systems-V1.0.3  
 Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 6 systems with 5 being complete.  
 
-### PICTURES
+## LICENSE
+CC BY-NC-ND 4.0   
+(Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License)  
+
+## PICTURES
 |<img width="500" height="281" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" /> | <img width="500" height="281" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> |
 |:--:|:--:|
 |<sup>Euba and its moon Mimar</sup>|<sup>Heloon</sup>  |
@@ -20,40 +24,48 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 
 <sup>*More pictures in my Discord server</sup>
 
-### SYSTEMS:
-|  SYSTEM  | STATE | INSPIRATION |
-| - | ------------------------- | ------------------------- |
-|  Rast | Finished | No analog |
-| Xeroon | WIP | Alpha Centauri |
+## SYSTEMS
+There are a wide range of systems, such as a cramped red dwarf system, a massive binary star system to even a black hole! 
+
+### BASE SYSTEMS
+Original systems made by me.
+|  SYSTEM  | STATE | ANALOGUE |
+| - | - | - |
+|  Rast | Finished | No analogue |
+| Xeroon | Finished | Alpha Centauri |
 | Orrion | Finished, Not released | Teide 1 |
 | Noren | Finished | Upsilon Andromedae |
 | Keppe| Finished, Not released | Trappist 1 |
-| Swarch | Finished |  No analog |
+| Swarch | Finished |  No analogue | 
 
-### LICENSE:
-CC-BY-NC-ND
+### EXPANSIONS
+Project Hail Mary Expansion
+|  SYSTEM  | STATE | ANALOGUE |
+| - | ------------------------- | ------------------------- |
+|  Kau Ceti | Finished, Not released | Tau Ceti |
+| 40 Keridani | Finished, Not released | Epsilon Eridani |
 
-### ISSUES
+## ISSUES
 I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, or Kcalbeloh. If it does conflict, please tell me here on [Discord](https://discord.gg/7gJw6GxX)  
 If there are any other issue report them to me, thank you!
 
-### WHAT IS INCLUDED
+## WHAT IS INCLUDED
 There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles along with volumetirc auroras and rings (credit to @TheSpacePotato).
 
-### THE FUTURE
+## THE FUTURE
 There will be more systems, like a planned Kerbol outer planets, and many exotic worlds to explore.  
 Parallax Continued support will be done in the future, as I average 1-2 fps with my current setup, so it's not feasible right now.
 
-**SYSTEMS IDEAS**  
+### SYSTEMS IDEAS
 - A young system with disks of gas and lots of lava. 
 
-**WIP SYSTEMS**  
-- Xeroon
+### WIP SYSTEMS 
+- There are no WIP systems
 
-### INSTALLATION
+## INSTALLATION
 Download and unzip Stellar Systems, take Stellar Systems out of the GameData folder, and drag and drop it into your KSP GameData.  
 
-**Dependencies**
+- **Dependencies**
 |  MODS  | PURPOSE |
 | ------------------------- | ------------------------- |
 |  [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/) | Loads mods for KSP
@@ -67,7 +79,7 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 |  [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) | Bugfix pack
 |  [KEX](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) | Adds wormholes FX
 
-**Extra Mods** [Recommended]
+- **Extra Mods** [Recommended]
 | MODS | PURPOSE |
 | ------------------------- | ------------------------- |
 | [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens/releases/tag/v0.5.0)| Replaces the stock loading screens with custom ones
@@ -75,7 +87,7 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 |  [AtmosphereUtilities](https://github.com/plantman-dev/AtmosphereUtilities) | Allows oxygen to be at certain heights/places
 |  [Singularity](https://github.com/LGhassen/Singularity/releases) | New black hole shaders
 
-**Visual Mods** [Recommended]
+- **Visual Mods** [Recommended]
 | MODS | PURPOSE |
 | ------------------------- | ------------------------- |
 | [EVE](https://www.patreon.com/blackrack), Volumetric ONLY!! | Adds dynamic 3D clouds
@@ -84,7 +96,7 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 |  [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases/tag/0.2.6.6) | Reflected glow off of planets or moons
 | [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance
 
-### EXTRA
+## EXTRA
 All textures made in GIMP.  
 This is my first mod. If you have any feedback, please feel free to share it with me.  
 
