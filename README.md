@@ -28,7 +28,7 @@ There are a wide range of systems, such as a cramped red dwarf system, a massive
 <summary> System Overviews </summary>
 
 ### BASE SYSTEMS
-|  SYSTEM  | Overview |
+|  SYSTEM  | OVERVIEW |
 | - | - |
 |  Rast | A decent system, containing a Kerbin-like planet, hellish planets much larger than any other rocky planets out there, and even salty iron moons. All of this, at only 2KLY! |
 | Xeroon | A massive B x K-type binary system. Containing large Duna's, mini Jools, along with massive icy planets. |
@@ -37,11 +37,18 @@ There are a wide range of systems, such as a cramped red dwarf system, a massive
 | Keppe | A tightly packed red dwarf system. Having unusual gas planets, hot desert worlds, and massive geysers coming out of the ground! |
 | Swarch | A gigantic black hole! That has a, um... a meth planet! |  
 
-### EXPANSIONS
-|  SYSTEM  | Overview |
+### EXPANSIONS  
+
+**Project Hail Mary Expansion**  
+|  SYSTEM  | OVERVIEW |
 | - | - |
 |  Kau Ceti | A small system with a large green planet, uhh, are we talking about Jool? |
 | 40 Keridani | A K-type star with a massive blue planet, there seems to be some sort of thing sticking out of it. Interesting. |  
+
+**Kerbol Outer Planets**  
+|  SYSTEM  | OVERVIEW |
+| - | - |
+| Kerbol Outer Planets | A unique set of outer planets, that are nothing like ours. |
 
 </details>
 
