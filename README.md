@@ -41,7 +41,7 @@ There are a wide range of systems, such as a cramped red dwarf system, a massive
 |  SYSTEM  | Overview |
 | - | - |
 |  Kau Ceti | A small system with a large green planet, uhh, are we talking about Jool? |
-| 40 Keridani | A K-type star with a massive blue planet, there seems to be some sort of thing sticking out of it. Interesting. |
+| 40 Keridani | A K-type star with a massive blue planet, there seems to be some sort of thing sticking out of it. Interesting. |  
 
 </details>
 
