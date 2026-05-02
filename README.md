@@ -23,6 +23,28 @@ CC BY-NC-ND 4.0
 ## SYSTEMS
 There are a wide range of systems, such as a cramped red dwarf system, a massive binary star system to even a black hole! 
 
+<details>
+
+<summary> System Overviews </summary>
+
+### BASE SYSTEMS
+|  SYSTEM  | Overview |
+| - | - |
+|  Rast | A decent system, containing a Kerbin-like planet, hellish planets much larger than any other rocky planets out there, and even salty iron moons. All of this, at only 2KLY! |
+| Xeroon | A massive B x K-type binary system. Containing large Duna's, mini Jools, along with massive icy planets. |
+| Orrion | A small pink brown dwarf, with a deadly spore planet, and some others. |
+| Noren | A decently sized system made of just gas and ice giants! And some icy and toxic moons |
+| Keppe | A tightly packed red dwarf system. Having unusual gas planets, hot desert worlds, and massive geysers coming out of the ground! |
+| Swarch | A gigantic black hole! That has a, um... a meth planet! |  
+
+### EXPANSIONS
+|  SYSTEM  | Overview |
+| - | - |
+|  Kau Ceti | A small system with a large green planet, uhh, are we talking about Jool? |
+| 40 Keridani | A K-type star with a massive blue planet, there seems to be some sort of thing sticking out of it. Interesting. |
+
+</details>
+
 ### BASE SYSTEMS
 Original systems made by me.
 |  SYSTEM  | STATE | ANALOGUE |
