@@ -78,7 +78,7 @@ Expansions based off of movies, books or even past concepts I had.
 | Kerbol Outer Planets | WIP, Not released | Our solar system |
 
 ## ISSUES
-I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, or Kcalbeloh. If it does conflict, please tell me here on [Discord](https://discord.gg/7gJw6GxX)  
+I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, or Kcalbeloh. If it does conflict, please tell me here on [Discord](https://discord.gg/TmGTPuBZdC)
 If there are any other issue report them to me, thank you!
 
 ## WHAT IS INCLUDED
