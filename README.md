@@ -21,7 +21,7 @@ CC BY-NC-ND 4.0
 <sup>*More pictures in my Discord server</sup>
 
 ## SYSTEMS
-There are a wide range of systems, such as a cramped red dwarf system, a massive binary star system to even a black hole! 
+There are a wide range of systems, like a cramped red dwarf system, a massive binary star system and even a black hole! 
 
 <details>
 
