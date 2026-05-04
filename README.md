@@ -1,11 +1,16 @@
 <img width="1000" height="563" alt="StellarSystems" src="https://github.com/user-attachments/assets/66cc5211-0e06-46d7-a0a1-dbe8c9a36700" />
 
-<sup>Made by @RatchetKSP</sup>
+<sup>Made by @RatchetKSP</sup>  
 
 # Stellar Systems-V2.0.1
 Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 8 systems with all being complete.  
 
 ## LICENSE
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+
+
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
 CC BY-NC-ND 4.0   
 (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License)  
 
