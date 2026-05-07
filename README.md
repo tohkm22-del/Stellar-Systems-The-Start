@@ -5,7 +5,7 @@
 # Stellar Systems-V2.0.1
 Stellar Systems is a large-scale, unrealistic to semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 8 systems with all being complete.  
 
-## LICENSE
+## License
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
 
@@ -14,7 +14,7 @@ Stellar Systems is a large-scale, unrealistic to semi-realistic interstellar mod
 CC BY-NC-ND 4.0   
 (Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International Public License)  
 
-## PICTURES
+## Pictures
 |<img width="500" height="281" alt="Screenshot 2026-03-17 204040" src="https://github.com/user-attachments/assets/b32b00f4-05af-4ff6-92ae-72717c3395fd" /> | <img width="500" height="281" alt="Screenshot 2026-03-17 202755" src="https://github.com/user-attachments/assets/aebfe57c-c4c3-4e3a-ba61-3b4ee09d693f" /> 
 |:--:|:--:|
 |<sup>Gevlo seen up close</sup>|<sup>Heloon</sup> |
@@ -25,15 +25,15 @@ CC BY-NC-ND 4.0
 
 <sup>*More pictures in my Discord server</sup>
 
-## SYSTEMS
+## Systems
 There are a wide range of systems, like a cramped red dwarf system, a massive binary star system and even a black hole! 
 
 <details>
 
 <summary> System Overviews </summary>
 
-### BASE SYSTEMS
-|  SYSTEM  | OVERVIEW |
+### Base Systems
+|  System  | Overview |
 | - | - |
 |  Rast | A decent system, containing a Kerbin-like planet, hellish planets much larger than any other rocky planets out there, and even salty iron moons. All of this, at only 2KLY! |
 | Xeroon | A massive B x K-type binary system. Containing large Duna's, mini Jools, along with massive icy planets. |
@@ -42,24 +42,24 @@ There are a wide range of systems, like a cramped red dwarf system, a massive bi
 | Keppe | A tightly packed red dwarf system. Having unusual gas planets, hot desert worlds, and massive geysers coming out of the ground! |
 | Swarch | A gigantic black hole! That has a, um... a meth planet! |  
 
-### EXPANSIONS  
+### Expansions  
 
 **Project Hail Mary Expansion**  
-|  SYSTEM  | OVERVIEW |
+|  System  | Overview |
 | - | - |
 |  Kau Ceti | A small system with a large green planet, uhh, are we talking about Jool? |
 | 40 Keridani | A K-type star with a massive blue planet, there seems to be some sort of thing sticking out of it. Interesting. |  
 
 **Kerbol Outer Planets**  
-|  SYSTEM  | OVERVIEW |
+|  System  | Overview |
 | - | - |
 | Kerbol Outer Planets | A unique set of outer planets, that are nothing like ours. |
 
 </details>
 
-### BASE SYSTEMS
+### Base Systems
 Original systems made by me.
-|  SYSTEM  | STATE | ANALOGUE |
+|  System  | State | Analogue |
 | - | - | - |
 |  Rast | Finished | No analogue |
 | Xeroon | Finished | Alpha Centauri |
@@ -68,42 +68,42 @@ Original systems made by me.
 | Keppe| Finished | Trappist 1 |
 | Swarch | Finished |  No analogue | 
 
-### EXPANSIONS
+### Expansions
 Expansions based off of movies, books or even past concepts I had.  
 
 **Project Hail Mary Expansion**
-|  SYSTEM  | STATE | ANALOGUE |
+|  System  | State | Analogue |
 | - | ------------------------- | ------------------------- |
 |  Kau Ceti | Finished | Tau Ceti |
 | 40 Keridani | Finished | Epsilon Eridani |  
   
 **Kerbol Outer Planets**
-|  SYSTEM  | STATE | ANALOGUE |
+|  System  | State | Analogue |
 | - | ------------------------- | ------------------------- |
 | Kerbol Outer Planets | Not released | Our solar system |
 
-## ISSUES
+## Issues
 I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, or Kcalbeloh. If it does conflict, please tell me here on [Discord](https://discord.gg/TmGTPuBZdC)
 If there are any other issue report them to me, thank you!
 
-## WHAT IS INCLUDED
+## What Is Included
 There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles along with volumetirc auroras and rings (credit to @TheSpacePotato).
 
-## THE FUTURE
+## The Future
 There will be more systems, like a planned Kerbol outer planets, and many exotic worlds to explore.  
 Parallax Continued support will be done in the future, as I average 1-2 fps with my current setup, so it's not feasible right now.
 
 ### SYSTEMS IDEAS
 - A young system with disks of gas and lots of lava. 
 
-### WIP SYSTEMS 
+### WIP Systems 
 - There are no WIP systems
 
-## INSTALLATION
+## Installation
 Download and unzip Stellar Systems, take Stellar Systems out of the GameData folder, and drag and drop it into your KSP GameData.  
 
 ### Dependencies
-|  MODS  | PURPOSE |
+|  Mods  | Purpose |
 | ------------------------- | ------------------------- |
 |  [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/) | Loads mods for KSP
 |  [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  | Adds refined Heightmap Algorithms
@@ -117,7 +117,7 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 |  [KEX](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) | Adds wormholes FX
 
 ### Extra Mods [Recommended]
-| MODS | PURPOSE |
+|  Mods  | Purpose |
 | ------------------------- | ------------------------- |
 | [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens/releases/tag/v0.5.0)| Replaces the stock loading screens with custom ones
 | [Sigma Replacements SkyBox](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1) | Allows for custom skyboxes
@@ -125,7 +125,7 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 |  [Singularity](https://github.com/LGhassen/Singularity/releases) | New black hole shaders
 
 ### Visual Mods [Recommended]
-| MODS | PURPOSE |
+|  Mods  | Purpose |
 | ------------------------- | ------------------------- |
 | [EVE](https://www.patreon.com/blackrack), Volumetric ONLY!! | Adds dynamic 3D clouds
 | [Scatterer](https://github.com/LGhassen/Scatterer/releases) | Improves atmospheric scattering
@@ -133,7 +133,7 @@ Download and unzip Stellar Systems, take Stellar Systems out of the GameData fol
 |  [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases/tag/0.2.6.6) | Reflected glow off of planets or moons
 | [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance
 
-## EXTRA
+## Extra
 All textures made in GIMP.  
 This is my first mod. If you have any feedback, please feel free to share it with me.  
 
