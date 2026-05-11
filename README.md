@@ -93,7 +93,7 @@ There are full science definitions written by Serbhit and me. Full volumetric cl
 There will be more systems, like a planned Kerbol outer planets, and many exotic worlds to explore.  
 Parallax Continued support will be done in the future, as I average 1-2 fps with my current setup, so it's not feasible right now.
 
-### SYSTEMS IDEAS
+### System Ideas
 - A young system with disks of gas and lots of lava. 
 
 ### WIP Systems 
